@@ -1,6 +1,4 @@
 # Facebook Clone App
-![image](https://github.com/kaursimar12/Facebook_clone/assets/109023363/d81dd78b-2a29-46f2-bc48-150df0d112c3)
-
 A full-stack Facebook clone application built using the MERN (MongoDB, Express, React, Node.js) stack, along with various middleware and UI libraries. This project includes a backend API server with Express, a MongoDB database using Mongoose, and a frontend web application built with React, Tailwind CSS, and Heroicons.
 
 ## Features
