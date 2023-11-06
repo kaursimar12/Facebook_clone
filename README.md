@@ -12,6 +12,13 @@ A full-stack Facebook clone application built using the MERN (MongoDB, Express, 
 - Sending and accepting friend requests.
 - Responsive design for desktop and mobile devices.
 - A clean and user-friendly interface inspired by Facebook's design.
+- ![image](https://github.com/kaursimar12/Facebook_clone/assets/109023363/d81dd78b-2a29-46f2-bc48-150df0d112c3)
+- ![image](https://github.com/kaursimar12/Facebook_clone/assets/109023363/4287f111-b653-41d8-a72c-0d512e4f4b46)
+- ![image](https://github.com/kaursimar12/Facebook_clone/assets/109023363/060ab40f-960d-4ac7-ba24-a7b089a8d441)
+- ![image](https://github.com/kaursimar12/Facebook_clone/assets/109023363/b0e9f879-5815-4a91-8c1c-3bc0425361f9)
+
+
+
 
 ## Prerequisites
 
